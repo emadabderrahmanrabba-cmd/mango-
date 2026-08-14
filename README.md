@@ -1,4 +1,4 @@
-# mango-
+# Note to AI
 
 A small utility library for working with fruit inventory data in JavaScript/TypeScript.
 
